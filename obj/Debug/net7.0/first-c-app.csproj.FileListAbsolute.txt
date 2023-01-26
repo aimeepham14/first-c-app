@@ -1,0 +1,15 @@
+/Users/aimeepham/seir-808/clang/first-c-app/bin/Debug/net7.0/first-c-app
+/Users/aimeepham/seir-808/clang/first-c-app/bin/Debug/net7.0/first-c-app.deps.json
+/Users/aimeepham/seir-808/clang/first-c-app/bin/Debug/net7.0/first-c-app.runtimeconfig.json
+/Users/aimeepham/seir-808/clang/first-c-app/bin/Debug/net7.0/first-c-app.dll
+/Users/aimeepham/seir-808/clang/first-c-app/bin/Debug/net7.0/first-c-app.pdb
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/first-c-app.csproj.AssemblyReference.cache
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/first-c-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/first-c-app.AssemblyInfoInputs.cache
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/first-c-app.AssemblyInfo.cs
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/first-c-app.csproj.CoreCompileInputs.cache
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/first-c-app.dll
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/refint/first-c-app.dll
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/first-c-app.pdb
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/first-c-app.genruntimeconfig.cache
+/Users/aimeepham/seir-808/clang/first-c-app/obj/Debug/net7.0/ref/first-c-app.dll
